@@ -1,0 +1,4 @@
+name: API
+version: '${version}'
+main: de.zappler2k.api.spigot.SpigotCore
+api-version: 1.16
